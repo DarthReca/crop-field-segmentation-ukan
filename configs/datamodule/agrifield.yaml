@@ -1,0 +1,4 @@
+data_dir: data/agrifieldnet
+batch_size: 8
+num_workers: 4
+binary: True

@@ -1,0 +1,2 @@
+data_dir: data/sickle_dataset
+batch_size: 4

@@ -1,0 +1,5 @@
+path: data/sa_crop
+batch_size: 16
+num_workers: 0
+binarize: true
+bands: [VV, VH]
