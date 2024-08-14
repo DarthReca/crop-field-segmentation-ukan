@@ -30,6 +30,10 @@ The repository setup is by [Eleonora Poeta](https://github.com/eleonorapoeta) fo
 
 This project is licensed under the **Apache 2.0 license**. See [LICENSE](LICENSE) for more information.
 
+U-Net is licensed under **GPL-3 license**. See [LICENSE](models/UNET_LICENSE) for more information.
+
+U-KAN is licensed under **MIT license**. See [LICENSE](models/UKAN_LICENSE) for more information.
+
 ## Citation
 
 If you find this project useful, please consider citing:
