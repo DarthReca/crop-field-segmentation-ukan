@@ -2,9 +2,9 @@
   
 ## KAN You See It? KANs and Sentinel for Effective and Explainable Crop Field Segmentation
 
-[**Daniele Rege Cambrin**](https://darthreca.github.io/)<sup>1</sup> · [**Eleonora Poeta**](https://isaacc.dev/)<sup>1</sup> · [**Eliana Pastor**](https://elianap.github.io/)<sup>1</sup>
+[**Daniele Rege Cambrin**](https://darthreca.github.io/)<sup>1</sup> · [**Eleonora Poeta**](https://github.com/eleonorapoeta)<sup>1</sup> · [**Eliana Pastor**](https://elianap.github.io/)<sup>1</sup>
 
-[**Tania Cerquitelli**](https://darthreca.github.io/)<sup>1</sup> · [**Elena Baralis**](https://isaacc.dev/)<sup>1</sup> · [**Paolo Garza**](https://dbdmg.polito.it/dbdmg_web/people/paolo-garza/)<sup>1</sup>
+[**Tania Cerquitelli**](https://smartdata.polito.it/members/tania-cerquitelli)<sup>1</sup> · [**Elena Baralis**](https://smartdata.polito.it/members/elena-baralis/)<sup>1</sup> · [**Paolo Garza**](https://dbdmg.polito.it/dbdmg_web/people/paolo-garza/)<sup>1</sup>
 
 <sup>1</sup>Politecnico di Torino, Italy
 
