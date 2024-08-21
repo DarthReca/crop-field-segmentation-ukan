@@ -11,7 +11,8 @@
 **[ECCV 2024 CVPPA Workshop](https://cvppa2024.github.io/)**
 
 <a href="https://arxiv.org/abs/2408.07040"><img src='https://img.shields.io/badge/arXiv-KAN%20You%20See%20It-red' alt='Paper PDF'></a>
-<a href='https://beta.source.coop/repositories/radiantearth/south-africa-crops-competition/description/'><img src='https://img.shields.io/badge/Source%20Cooperative-South%20Africa%20Crop%20Type-yellow'></a>
+<a href='https://beta.source.coop/repositories/radiantearth/south-africa-crops-competition/description/'><img src='https://img.shields.io/badge/Source%20Cooperative-South%20Africa%20Crop%20Type-silver'></a>
+<a href="https://huggingface.co/datasets/DarthReca/south-africa-crop-type-clouds"><img src='https://img.shields.io/badge/HuggingFace-Cloud_Masks-yellow?logo=huggingface'></a>
 </div>
 
 **This paper analyzes the integration of KAN layers into the U-Net architecture (U-KAN) to segment crop fields using Sentinel-2 and Sentinel-1 satellite images and provides an analysis of the performance and explainability of these networks**. Our findings indicate a 2% improvement in IoU compared to the traditional full-convolutional U-Net model in **fewer GFLOPs**. Furthermore, gradient-based explanation techniques show that U-KAN predictions are highly plausible and that the network has a very high ability to **focus on the boundaries of cultivated areas** rather than on the areas themselves. The per-channel relevance analysis also reveals that some channels are irrelevant to this task.
@@ -25,6 +26,10 @@ Use the *xai.ipynb* for the explainability part.
 
 ## Contributors
 The repository setup is by [Eleonora Poeta](https://github.com/eleonorapoeta) for the XAI section and [Daniele Rege Cambrin](https://github.com/DarthReca) for the remaining.
+
+## Metadata
+
+You can find the computed cloud masks for Sentinel-2 on [HuggingFace](https://huggingface.co/datasets/DarthReca/south-africa-crop-type-clouds).
 
 ## License
 
