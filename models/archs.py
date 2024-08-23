@@ -4,7 +4,6 @@ import torch
 import torch.nn.functional as F
 from timm.models.layers import DropPath, to_2tuple, trunc_normal_
 from torch import nn
-from utils import *
 
 from .kan import KAN, KANLinear
 
